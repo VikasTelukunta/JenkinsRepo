@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C8BF-BECF
+
+ Directory of C:\Users\vikas\Desktop\MyProject
+
+05/14/2018  02:02 PM    <DIR>          .
+05/14/2018  02:02 PM    <DIR>          ..
+05/14/2018  02:02 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  134,701,260,800 bytes free
